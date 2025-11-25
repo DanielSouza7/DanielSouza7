@@ -1,23 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Daniel Souza!
 
-<!--
-**DanielSouza7/DanielSouza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Transição de carreira: de Engenharia Civil para Ciência da Computação  
+📊 Apaixonado por dados, matemática, estatística e modelagem  
+📈 Estudante de Ciência de Dados (EBAC – Formação Cientista de Dados)  
+💼 Foco atual: Data Analysis, Machine Learning e MLOps para iniciantes  
 
-Here are some ideas to get you started:
+Bem-vindo ao meu portfólio! Aqui você vai encontrar projetos que demonstram minha evolução na área de Ciência de Dados, desde análises exploratórias até modelos de Machine Learning aplicados a problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+## 🚀 Tecnologias e Ferramentas
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Souza;I'm+35+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+**Linguagens e análise:**  
+- Python (pandas, numpy, matplotlib, seaborn)  
+- SQL  
+- Jupyter Notebook  
 
-### Main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+**Machine Learning:**  
+- Scikit-Learn  
+- Modelos de classificação e regressão  
+- Pré-processamento e engenharia de atributos  
+
+**Visualização e Dashboards:**  
+- Power BI  
+- Streamlit  
+- Plotly  
+
+**Ferramentas de suporte:**  
+- Git & GitHub  
+- Google Colab  
+- VS Code  
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Análise Exploratória e Previsão de Preços de Imóveis**  
+🔹 **Classificação de Churn de Clientes**  
+🔹 **Dashboard interativo sobre indicadores de obras públicas**  
+🔹 **Clusterização de clientes usando K-Means**  
+🔹 **Aplicação de ML para prever demanda de materiais da construção civil (diferencial da minha experiência)**
+
+👉 Veja todos os meus projetos nos repositórios públicos.
+
+---
+
+## 🧭 Sobre mim
+
+Sou um profissional em transição para a área de tecnologia, trazendo comigo uma base sólida de raciocínio lógico, matemática e experiência em engenharia e projetos.  
+Busco oportunidades como **Analista de Dados**, **Cientista de Dados Júnior** ou áreas correlatas.
+
+---
+
+## 📬 Contato
+
+📧 Email: **seu-email**  
+🔗 LinkedIn: **seu-linkedin**  
+
+Fique à vontade para explorar meus projetos!
