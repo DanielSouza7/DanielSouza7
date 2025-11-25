@@ -35,11 +35,7 @@ Bem-vindo ao meu portfólio! Aqui você vai encontrar projetos que demonstram mi
 
 ## 📌 Projetos em destaque
 
-🔹 **Análise Exploratória e Previsão de Preços de Imóveis**  
-🔹 **Classificação de Churn de Clientes**  
-🔹 **Dashboard interativo sobre indicadores de obras públicas**  
-🔹 **Clusterização de clientes usando K-Means**  
-🔹 **Aplicação de ML para prever demanda de materiais da construção civil (diferencial da minha experiência)**
+🔹 ** **  
 
 👉 Veja todos os meus projetos nos repositórios públicos.
 
@@ -54,7 +50,7 @@ Busco oportunidades como **Analista de Dados**, **Cientista de Dados Júnior** o
 
 ## 📬 Contato
 
-📧 Email: **seu-email**  
-🔗 LinkedIn: **seu-linkedin**  
+📧 Email: daniel.augusto.ucb@gmail.com  
+🔗 LinkedIn:   
 
 Fique à vontade para explorar meus projetos!
